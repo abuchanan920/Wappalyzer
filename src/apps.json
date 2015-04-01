@@ -1889,6 +1889,13 @@
 			},
 			"website": "www.flexcmp.com/cms/home"
 		},
+		"FlowPlayer": {
+			"cats": [
+				14 
+			],
+			"script": "flowplayer.*\\.js",
+			"website": "www.flowplayer.org"
+		},
 		"FluxBB": {
 			"cats": [
 				2
@@ -2337,6 +2344,13 @@
 			},
 			"website": "hp.com"
 		},
+		"HTML5 Video": {
+			"cats": [
+				14
+			],
+			"html": "<video",
+			"website": "www.w3schools.com/html/html5_video.asp"
+		},
 		"HTTP-Server": {
 			"cats": [
 				22
@@ -2743,6 +2757,13 @@
 			},
 			"html": "(?:<input[^>]+name=\"JTLSHOP|<a href=\"jtl\\.php)",
 			"website": "www.jtl-software.de/produkte/jtl-shop3"
+		},
+		"JWPlayer": {
+			"cats": [ 
+				14 
+			],
+			"script": "jwplayer.*\\.js",
+			"website": "www.jwplayer.com"
 		},
 		"Jalios": {
 			"cats": [
